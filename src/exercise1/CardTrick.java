@@ -66,6 +66,7 @@ public class CardTrick {
      * replace this information with your own.
      * @author CHI YIN IP Jan 28 2023
      */
+    //I'm done!
     private static void printInfo() {
     
         System.out.println("Congratulations, you guessed right!");
