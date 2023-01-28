@@ -29,8 +29,8 @@ public class CardTrick {
             hand[i] = card;
         }
         
-        System.out.println(hand[0].getSuit());
-        System.out.println(hand[0].getValue());
+        //System.out.println(hand[0].getSuit());
+        //System.out.println(hand[0].getValue());
         // insert code to ask the user for Card value and suit, create their card
         // and search the hand here. 
         // Hint: You can ask for values 1 to 10, and then
